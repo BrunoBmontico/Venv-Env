@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import csv
 import os
 
-# RESGATA O VALOR DA ENV E ORGANIZA DA MANEIRA NECESSÁRIA PARA O CÓDIGO RODAR.
+# RESGATA O VALOR DA ENV E ORGANIZAR DA MANEIRA NECESSÁRIA PARA O CÓDIGO RODAR.
 def dict_datapath(data_path):
     dictionary = {}
     with open(data_path) as file_csv:
