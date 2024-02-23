@@ -40,12 +40,3 @@ def main():
     graph_plot(months, sales)
 
 main()
-
-
-
-
-
-
-
-    
-
